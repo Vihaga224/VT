@@ -2,7 +2,7 @@
     "name": "VIHANA THIKSANA",
     "description": "whatsapp md bot build with nodejs",
     "repository": "https://github.com/vihangayt0/VihangaBot-MD-V2",
-    "logo": "content://com.android.chrome.FileProvider/images/screenshot/1665573886650995128424.jpg",
+    "logo": "https://i.ibb.co/JmC0Vqy/res-drawable-xxhdpi-v4-ic-music-default-big.jpg",
     "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
     "env": {
   
@@ -158,7 +158,7 @@
 "IMG_URL" :{
     "description" : "UPLOAD YOURE PHOTO TO IMGBB AND TYPE URL",
     "required" : true,
-  "value" : "content://com.android.chrome.FileProvider/images/screenshot/1665573886650995128424.jpg"
+  "value" : "https://i.ibb.co/JmC0Vqy/res-drawable-xxhdpi-v4-ic-music-default-big.jpg"
 },
   
   "YT_URL" :{
